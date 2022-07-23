@@ -1,0 +1,25 @@
+/* body {
+    margin: 0;
+    padding: 12px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    min-width: 400px;
+}
+.card{
+    
+    margin: auto;
+     display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    border: 2px solid green;
+}
+
+button{
+    padding:6px 14px;
+    width:50%;
+    margin: auto;
+}
+
+#btn{
+    margin-bottom: 8px;
+} */
